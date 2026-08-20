@@ -39,6 +39,15 @@ tags:
 - Procurement
 - ERP Integration
 - Manufacturing
+- Software-as-a-Service
+tags_raw:
+- Company
+- Supply Chain
+- Purchase Orders
+- Supplier Management
+- Procurement
+- ERP Integration
+- Manufacturing
 - SaaS
 apis: []
 maintainers:
