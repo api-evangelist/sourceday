@@ -33,6 +33,9 @@ description: 'SourceDay is an AI-driven supplier collaboration and purchase orde
   certified ERP connectors rather than a public self-serve developer API; there is
   no public API documentation, developer portal, or published OpenAPI at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/sourceday/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Integration is delivered through certified ERP connectors rather than a public self-serve developer API; there is no public API documentation, developer portal, or published OpenAPI at this time."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
