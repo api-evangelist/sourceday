@@ -5,23 +5,24 @@
       "source": "https://sourceday.com/blog/",
       "feed_url": "https://sourceday.com/blog/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "discovered"
     },
     {
       "source": "https://sourceday.com/feed/",
       "feed_url": "https://sourceday.com/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
-      "source": "https://support.sourceday.com/hc/en-us",
-      "feed_url": "",
+      "source": "https://sourceday.com/blog/feed/",
+      "feed_url": "https://sourceday.com/blog/feed/",
+      "title": "",
       "saved": 0,
-      "skipped": "community-shaped; a vendor feed already saved this run (roadmap#239)"
+      "method": "feed"
     }
   ],
-  "post_count": 2,
-  "fetched": "2026-10-10T13:15:00Z"
+  "post_count": 11,
+  "fetched": "2026-10-17T14:53:57Z"
 }
